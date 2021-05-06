@@ -1,0 +1,21 @@
+{
+  "Category 1 - Colors": [
+    {
+      "Question": "Which of those is a color?",
+      "Correct Answers": [1],
+      "Answers": ["Red", "Yes", "No", "Demo answer"]
+    },
+    {
+      "Question": "Select yes and no (multiple choice)?",
+      "Correct Answers": [2, 3],
+      "Answers": ["Red", "Yes", "No", "Demo answer"]
+    }
+  ],
+  "Category 2 - Demo 2": [
+    {
+      "Question": "Select the demo answer",
+      "Correct Answers": [4],
+      "Answers": ["Red", "Yes", "No", "Demo answer"]
+    }
+  ]
+}
